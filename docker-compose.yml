@@ -1,0 +1,10 @@
+services:
+  web:
+    build: .
+    container_name: cloud-app-stack
+
+    ports:
+      - "80:80"
+
+    restart: always
+

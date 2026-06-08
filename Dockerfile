@@ -1,0 +1,5 @@
+FROM nginx:latest
+COPY index.html /usr/share/nginx/html/index.html
+COPY stlye.css /usr/share/nginx/html/style.css
+EXPOSE 80
+RUN ["nginx","-g","daemon off;"]
