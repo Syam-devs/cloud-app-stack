@@ -1,5 +1,7 @@
 # Cloud App Stack
 
+<img width="1858" height="926" alt="image" src="https://github.com/user-attachments/assets/fe042075-5baf-418a-8d31-c94066ad7cad" />
+
 A containerized web application deployed using Docker and Nginx on AWS EC2. This project demonstrates modern DevOps deployment practices, including containerization, cloud hosting, GitHub version control, and infrastructure management.
 
 ## Project Overview
